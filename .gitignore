@@ -26,5 +26,8 @@
 *.exe
 *.out
 *.app
+<<<<<<< HEAD
 
 .DS_Store
+=======
+>>>>>>> acc0539a2aeb4e3d440dedfd51d696f38c0b15c1
